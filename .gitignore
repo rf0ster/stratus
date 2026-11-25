@@ -1,0 +1,4 @@
+/bin/
+/stratus
+*.test
+*.out
