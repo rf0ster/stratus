@@ -2,3 +2,4 @@
 /stratus
 *.test
 *.out
+.env*
